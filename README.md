@@ -4,7 +4,7 @@ As an engineer, you will be expected to ensure that all new features and fixes d
 
 ## The Challenge
 
-The test for this app sometimes passes and sometimes fails. You should be able to quickly figure out a change that will make the test 100% reliable.
+Used fixtures to get the data and increased the page load time and default command time, you can edit the data in fixtures 
 
 You may modify any file or files *except* those in the `src/` directory.
 
